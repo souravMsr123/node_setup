@@ -1,0 +1,42 @@
+[
+    {
+        "_id" : "5c792280fe96f47d790d81e4",
+        "updatedAt" : ISODate("2019-03-01T12:16:00.761Z"),
+        "createdAt" : ISODate("2019-03-01T12:16:00.761Z"),
+        "name" : "Biceps",
+        "isBlocked" : false,
+        "__v" : 0
+    },
+    {
+        "_id" : "5c7f7a9a5c34c14431a379da",
+        "updatedAt" : ISODate("2019-03-06T07:45:30.751Z"),
+        "createdAt" : ISODate("2019-03-06T07:45:30.751Z"),
+        "name" : "Chest",
+        "isBlocked" : false,
+        "__v" : 0
+    },
+    {
+        "_id" : "5c7f7aac5c34c14431a379dc",
+        "updatedAt" : ISODate("2019-03-06T07:45:48.678Z"),
+        "createdAt" : ISODate("2019-03-06T07:45:48.678Z"),
+        "name" : "Legs",
+        "isBlocked" : false,
+        "__v" : 0
+    },
+    {
+        "_id" : "5c7fcf3d31ee87227b44df4a",
+        "updatedAt" : ISODate("2019-03-08T05:43:56.106Z"),
+        "createdAt" : ISODate("2019-03-06T13:46:37.687Z"),
+        "name" : "Hips",
+        "isBlocked" : true,
+        "__v" : 0
+    },
+    {
+        "_id" : "5c80e4d12e04982e894b0bc0",
+        "updatedAt" : ISODate("2019-03-08T05:44:10.732Z"),
+        "createdAt" : ISODate("2019-03-07T09:30:57.286Z"),
+        "name" : "Abdomen",
+        "isBlocked" : false,
+        "__v" : 0
+    }
+]

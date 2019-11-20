@@ -1,0 +1,50 @@
+[
+    {
+        "_id" : "5c7913780afab773b67bc3a6",
+        "updatedAt" : ISODate("2019-03-01T11:12:26.313Z"),
+        "createdAt" : ISODate("2019-03-01T11:11:52.270Z"),
+        "name" : "Barbels",
+        "isBlocked" : false,
+        "__v" : 0
+    },
+    {
+        "_id" : "5c7f79b25c34c14431a379d8",
+        "updatedAt" : ISODate("2019-03-06T07:41:38.753Z"),
+        "createdAt" : ISODate("2019-03-06T07:41:38.753Z"),
+        "name" : "Ab-pro",
+        "isBlocked" : false,
+        "__v" : 0
+    },
+    {
+        "_id" : "5c7f7a415c34c14431a379d9",
+        "updatedAt" : ISODate("2019-03-08T08:42:58.448Z"),
+        "createdAt" : ISODate("2019-03-06T07:44:01.634Z"),
+        "name" : "Manual Treadmill",
+        "isBlocked" : false,
+        "__v" : 0
+    },
+    {
+        "_id" : "5c81104030b04c76792cf998",
+        "updatedAt" : ISODate("2019-03-07T12:36:16.167Z"),
+        "createdAt" : ISODate("2019-03-07T12:36:16.167Z"),
+        "name" : "Cycling",
+        "isBlocked" : false,
+        "__v" : 0
+    },
+    {
+        "_id" : "5c82041fa2764248354b6ccf",
+        "updatedAt" : ISODate("2019-03-08T05:56:47.270Z"),
+        "createdAt" : ISODate("2019-03-08T05:56:47.270Z"),
+        "name" : "Cross-trainer",
+        "isBlocked" : false,
+        "__v" : 0
+    },
+    {
+        "_id" : "5c822b25e8bedc766605f0f4",
+        "updatedAt" : ISODate("2019-03-08T08:43:17.691Z"),
+        "createdAt" : ISODate("2019-03-08T08:43:17.691Z"),
+        "name" : "Motorized treadmill",
+        "isBlocked" : false,
+        "__v" : 0
+    }
+]

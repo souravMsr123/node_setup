@@ -1,0 +1,41 @@
+[
+    {
+        "_id" : "5c7ce0366c810c6c015c56f8",
+        "updatedAt" : ISODate("2019-03-07T06:27:32.765Z"),
+        "createdAt" : ISODate("2019-03-04T08:22:14.024Z"),
+        "name" : "Morning Workout",
+        "content" : "This is a demo Feed",
+        "isBlocked" : false,
+        "__v" : 0,
+        "image_url" : "/uploads/profilepic/5c7ce0366c810c6c015c56f8_1551940052758_feed.jpeg"
+    },
+    {
+        "_id" : "5c7f79865c34c14431a379d7",
+        "updatedAt" : ISODate("2019-03-06T07:40:54.441Z"),
+        "createdAt" : ISODate("2019-03-06T07:40:54.441Z"),
+        "name" : "Test Feed",
+        "content" : "",
+        "isBlocked" : false,
+        "__v" : 0
+    },
+    {
+        "_id" : "5c8110274409427662cc7d7d",
+        "updatedAt" : ISODate("2019-03-07T12:35:53.202Z"),
+        "createdAt" : ISODate("2019-03-07T12:35:51.519Z"),
+        "name" : "Thursday Feeds",
+        "content" : "This is a test feed created for testing.",
+        "isBlocked" : false,
+        "__v" : 0,
+        "image_url" : "/uploads/profilepic/5c8110274409427662cc7d7d_1551962153198_feed.jpeg"
+    },
+    {
+        "_id" : "5c822a37f5ae256bcaf92555",
+        "updatedAt" : ISODate("2019-03-08T08:39:21.035Z"),
+        "createdAt" : ISODate("2019-03-08T08:39:19.058Z"),
+        "name" : "Friday Post",
+        "content" : "<strong style=\"margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify;\">Lorem Ipsum</strong><span style=\"color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify;\">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span>",
+        "isBlocked" : false,
+        "__v" : 0,
+        "image_url" : "/uploads/profilepic/5c822a37f5ae256bcaf92555_1552034361032_feed.jpeg"
+    }
+]

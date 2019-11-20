@@ -1,0 +1,50 @@
+[
+    {
+        "_id" : "5c7905b59b077366c82e1834",
+        "updatedAt" : ISODate("2019-03-08T05:34:16.379Z"),
+        "createdAt" : ISODate("2019-03-01T10:13:09.687Z"),
+        "name" : "Dinner",
+        "isBlocked" : false,
+        "__v" : 0
+    },
+    {
+        "_id" : "5c7905bd9b077366c82e1835",
+        "updatedAt" : ISODate("2019-03-08T05:42:20.667Z"),
+        "createdAt" : ISODate("2019-03-01T10:13:17.920Z"),
+        "name" : "Lunch",
+        "isBlocked" : false,
+        "__v" : 0
+    },
+    {
+        "_id" : "5c7905ca9b077366c82e1836",
+        "updatedAt" : ISODate("2019-03-01T10:13:30.063Z"),
+        "createdAt" : ISODate("2019-03-01T10:13:30.063Z"),
+        "name" : "Brunch",
+        "isBlocked" : false,
+        "__v" : 0
+    },
+    {
+        "_id" : "5c7905d59b077366c82e1837",
+        "updatedAt" : ISODate("2019-03-08T08:45:39.047Z"),
+        "createdAt" : ISODate("2019-03-01T10:13:41.170Z"),
+        "name" : "Pre Workout",
+        "isBlocked" : false,
+        "__v" : 0
+    },
+    {
+        "_id" : "5c7905dc9b077366c82e1838",
+        "updatedAt" : ISODate("2019-03-08T08:45:49.242Z"),
+        "createdAt" : ISODate("2019-03-01T10:13:48.763Z"),
+        "name" : "Post Workout",
+        "isBlocked" : false,
+        "__v" : 0
+    },
+    {
+        "_id" : "5c81fecec8fcd13ea22c32f4",
+        "updatedAt" : ISODate("2019-03-08T05:34:06.472Z"),
+        "createdAt" : ISODate("2019-03-08T05:34:06.472Z"),
+        "name" : "Breakfast",
+        "isBlocked" : false,
+        "__v" : 0
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "_id" : "5c81211ad836fd033baaee17",
+        "updatedAt" : ISODate("2019-03-08T05:31:11.326Z"),
+        "createdAt" : ISODate("2019-03-07T13:48:10.287Z"),
+        "meal_category" : ObjectId("5c7905bd9b077366c82e1835"),
+        "name" : "Chicken soup",
+        "calories" : 354,
+        "protien" : 3345,
+        "carbohydrate" : 3535,
+        "fat" : 34535,
+        "meal_recepie" : "dcsDFWFFEW",
+        "isBlocked" : false,
+        "meal_type" : "Non Veg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5c81fe44c8fcd13ea22c32f2",
+        "updatedAt" : ISODate("2019-03-08T05:31:48.495Z"),
+        "createdAt" : ISODate("2019-03-08T05:31:48.495Z"),
+        "meal_category" : ObjectId("5c7905ca9b077366c82e1836"),
+        "name" : "Lasagne",
+        "calories" : 700,
+        "protien" : 320,
+        "carbohydrate" : 150,
+        "fat" : 98,
+        "meal_recepie" : "This is for testing purpose",
+        "isBlocked" : false,
+        "meal_type" : "Non Veg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5c81fe99c8fcd13ea22c32f3",
+        "updatedAt" : ISODate("2019-03-08T05:33:26.473Z"),
+        "createdAt" : ISODate("2019-03-08T05:33:13.477Z"),
+        "meal_category" : ObjectId("5c7905d59b077366c82e1837"),
+        "name" : "Veg Salad",
+        "calories" : 140,
+        "protien" : 5.2,
+        "carbohydrate" : 90,
+        "fat" : 1.3,
+        "meal_recepie" : "this is for testing purpose.&nbsp;",
+        "isBlocked" : false,
+        "meal_type" : "Veg",
+        "__v" : 0
+    }
+]

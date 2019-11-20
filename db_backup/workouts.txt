@@ -1,0 +1,30 @@
+[
+    {
+        "_id" : "5c8201bcc8fcd13ea22c32f6",
+        "updatedAt" : ISODate("2019-03-08T08:04:11.704Z"),
+        "createdAt" : ISODate("2019-03-08T05:46:36.883Z"),
+        "name" : "Test workout routine",
+        "workout_type" : ObjectId("5c820147c8fcd13ea22c32f5"),
+        "muscle_target" : ObjectId("5c80e4d12e04982e894b0bc0"),
+        "equipment" : ObjectId("5c7f7a415c34c14431a379d9"),
+        "video_url" : "https://youtu.be/3P6bEAlW-Vw",
+        "description" : "gtr oijoi[o ihjoi[h[oiho[u pojij werwre eoprpeer o0ireqerqer oi[- [plwe[efjdfov sfdasgdfbh&nbsp;",
+        "isBlocked" : false,
+        "__v" : 0,
+        "image_url" : "/uploads/profilepic/5c8201bcc8fcd13ea22c32f6_1552032251700_workout.jpeg"
+    },
+    {
+        "_id" : "5c822a7656643376414d7eec",
+        "updatedAt" : ISODate("2019-03-08T08:40:24.888Z"),
+        "createdAt" : ISODate("2019-03-08T08:40:22.992Z"),
+        "name" : "Workout Plan",
+        "workout_type" : ObjectId("5c7f7bca5c34c14431a379e0"),
+        "muscle_target" : ObjectId("5c7f7a9a5c34c14431a379da"),
+        "equipment" : ObjectId("5c7f7a415c34c14431a379d9"),
+        "video_url" : "",
+        "description" : "f<strong style=\"margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify;\">Lorem Ipsum</strong><span style=\"color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify;\">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span>",
+        "isBlocked" : false,
+        "__v" : 0,
+        "image_url" : "/uploads/profilepic/5c822a7656643376414d7eec_1552034424886_workout.jpeg"
+    }
+]
