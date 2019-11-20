@@ -25,7 +25,7 @@
     "method-override": "^2.3.7",
     "moment": "^2.24.0",
     "mongodb": "^2.2.21",
-    "mongoose": "4.5.4",
+    "mongoose": "5.7.5",
     "mongoose-aggregate-paginate": "^1.1.2",
     "mongoose-pagination": "^1.0.0",
     "morgan": "^1.8.2",
