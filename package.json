@@ -24,7 +24,7 @@
     "lodash": "^4.17.4",
     "method-override": "^2.3.7",
     "moment": "^2.24.0",
-    "mongodb": "^2.2.21",
+    "mongodb": "^3.1.13",
     "mongoose": "4.5.4",
     "mongoose-aggregate-paginate": "^1.1.2",
     "mongoose-pagination": "^1.0.0",
