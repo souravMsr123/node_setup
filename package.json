@@ -23,7 +23,7 @@
     "jsonwebtoken": "^7.2.1",
     "lodash": "^4.17.4",
     "method-override": "^2.3.7",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongodb": "^2.2.21",
     "mongoose": "4.5.4",
     "mongoose-aggregate-paginate": "^1.1.2",
